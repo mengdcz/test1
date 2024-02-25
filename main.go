@@ -17,6 +17,13 @@ func main() {
 	//源更新
 	fmt.Println("test main 1")
 
+
 	//分支更新
 	fmt.Println("fork result 4")
+
+	//源更新
+	fmt.Println("test main 2")
+
+
+
 }
