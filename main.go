@@ -17,5 +17,8 @@ func main() {
 	//源更新
 	fmt.Println("test main 1")
 
+	//源更新
+	fmt.Println("test main 2")
+
 
 }
